@@ -1,0 +1,2 @@
+Santro,Hyundai,230000.0,1086cc
+Hilux,Toyota,450000.0,2500cc
