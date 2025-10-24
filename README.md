@@ -1,14 +1,27 @@
-# Student Management System
+# Car Showroom Management System
 
-## Description
-A simple **console-based Student Management System** built in Java using Object-Oriented Programming (OOP) principles.  
-This system allows you to **add, view, update, and delete students**. Each student has an ID, name, age, and address.
+A beginner-friendly **Java console project** to manage a car showroom.  
+This project helps you learn **Core Java concepts** like OOP, ArrayList, methods, and file handling.
 
 ---
 
 ## Features
-- Add a new student  
-- View all students  
-- Update student information  
-- Delete a student  
-- Simple console-based menu
+
+- Add new cars (Model, Brand, Price, Engine Type)  
+- Display all cars in the showroom  
+- Search a car by model  
+- Remove a car by model  
+- Save and load car data from a file (`cars.txt`)  
+
+---
+
+## Technologies Used
+
+- Java (Core Java)  
+- Object-Oriented Programming (OOP)  
+- ArrayList  
+- File I/O (read/write text files)  
+- Scanner (for user input)  
+
+---
+
